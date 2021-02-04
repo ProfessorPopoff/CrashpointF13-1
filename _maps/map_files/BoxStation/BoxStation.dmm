@@ -455,8 +455,8 @@
 /area/f13/legioncamp)
 "abA" = (
 /obj/structure/window{
-	icon_state = "window";
-	dir = 10
+	dir = 10;
+	icon_state = "window"
 	},
 /obj/structure/window/fulltile/wood_window,
 /turf/open/floor/plasteel/f13{
@@ -487,8 +487,8 @@
 /area/f13/legioncamp)
 "abF" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 1
+	dir = 1;
+	icon_state = "girder-end"
 	},
 /area/f13/legioncamp)
 "abG" = (
@@ -526,8 +526,8 @@
 /area/f13/legioncamp)
 "abM" = (
 /obj/structure/fence/corner{
-	icon_state = "end";
-	dir = 8
+	dir = 8;
+	icon_state = "end"
 	},
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/desert)
@@ -655,8 +655,8 @@
 /area/f13/legioncamp)
 "acf" = (
 /obj/structure/chair/comfy/black{
-	icon_state = "comfychair";
-	dir = 4
+	dir = 4;
+	icon_state = "comfychair"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "dark"
@@ -664,8 +664,8 @@
 /area/f13/legioncamp)
 "acg" = (
 /obj/structure/chair/comfy/black{
-	icon_state = "comfychair";
-	dir = 8
+	dir = 8;
+	icon_state = "comfychair"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "dark"
@@ -682,8 +682,8 @@
 /area/f13/legioncamp)
 "aci" = (
 /obj/structure/chair/comfy/black{
-	icon_state = "comfychair";
-	dir = 4
+	dir = 4;
+	icon_state = "comfychair"
 	},
 /obj/machinery/light/small{
 	brightness = 3;
@@ -695,8 +695,8 @@
 /area/f13/legioncamp)
 "acj" = (
 /obj/structure/chair/comfy/black{
-	icon_state = "comfychair";
-	dir = 8
+	dir = 8;
+	icon_state = "comfychair"
 	},
 /obj/machinery/light/small{
 	dir = 4
@@ -794,8 +794,8 @@
 /area/f13/desert)
 "acz" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "acA" = (
@@ -903,20 +903,20 @@
 /area/f13/klamat)
 "acT" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-end"
 	},
 /area/f13/klamat)
 "acU" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-middle";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-middle"
 	},
 /area/f13/klamat)
 "acV" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 8
+	dir = 8;
+	icon_state = "girder-end"
 	},
 /area/f13/klamat)
 "acW" = (
@@ -973,9 +973,9 @@
 /area/f13/klamat)
 "adf" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 4;
 	icon_state = "bench";
-	dir = 4
+	name = "stool"
 	},
 /turf/open/floor/wood/f13/old,
 /area/f13/klamat)
@@ -984,9 +984,9 @@
 	dir = 1
 	},
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 8;
 	icon_state = "bench";
-	dir = 8
+	name = "stool"
 	},
 /turf/open/floor/wood/f13/old,
 /area/f13/klamat)
@@ -1132,8 +1132,8 @@
 /area/f13/legioncamp)
 "adD" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-middle";
-	dir = 1
+	dir = 1;
+	icon_state = "girder-middle"
 	},
 /area/f13/klamat)
 "adE" = (
@@ -1152,8 +1152,8 @@
 /area/f13/klamat)
 "adH" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 1
+	dir = 1;
+	icon_state = "girder-end"
 	},
 /area/f13/klamat)
 "adI" = (
@@ -1205,16 +1205,16 @@
 /area/f13/legioncamp)
 "adR" = (
 /obj/structure/chair/wood/normal{
-	icon_state = "wooden_chair";
-	dir = 1
+	dir = 1;
+	icon_state = "wooden_chair"
 	},
 /turf/open/floor/wood/f13/old,
 /area/f13/legioncamp)
 "adS" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 8;
 	icon_state = "bench";
-	dir = 8
+	name = "stool"
 	},
 /turf/open/floor/wood/f13/old,
 /area/f13/klamat)
@@ -1305,8 +1305,8 @@
 /area/f13/klamat)
 "aeg" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 6
+	dir = 6;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "aeh" = (
@@ -1350,8 +1350,8 @@
 /area/f13/desert)
 "aeo" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerbordercorner";
-	dir = 8
+	dir = 8;
+	icon_state = "outerbordercorner"
 	},
 /area/f13/desert)
 "aep" = (
@@ -1467,8 +1467,8 @@
 /area/f13/desert)
 "aeF" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerborder";
-	dir = 4
+	dir = 4;
+	icon_state = "outerborder"
 	},
 /area/f13/desert)
 "aeG" = (
@@ -1515,14 +1515,14 @@
 /area/f13/underground/mountain)
 "aeO" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 5
+	dir = 5;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "aeP" = (
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 9
+	dir = 9;
+	icon_state = "corner"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "horizontaloutermain0"
@@ -1545,8 +1545,8 @@
 /area/f13/desert)
 "aeS" = (
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 5
+	dir = 5;
+	icon_state = "corner"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "horizontaloutermain0"
@@ -1608,8 +1608,8 @@
 /area/f13/desert)
 "afb" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 10
+	dir = 10;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "afc" = (
@@ -1642,8 +1642,8 @@
 /area/f13/underground/mountain)
 "afh" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
-	icon_state = "bench_center"
+	icon_state = "bench_center";
+	name = "stool"
 	},
 /turf/open/floor/wood/f13/old,
 /area/f13/klamat)
@@ -1697,8 +1697,8 @@
 /area/f13/desert)
 "afq" = (
 /obj/structure/fence/corner{
-	icon_state = "end";
-	dir = 8
+	dir = 8;
+	icon_state = "end"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "horizontaloutermain0"
@@ -1711,8 +1711,8 @@
 "afs" = (
 /turf/open/floor/wood/f13/old,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-middle";
-	dir = 1
+	dir = 1;
+	icon_state = "girder-middle"
 	},
 /area/f13/klamat)
 "aft" = (
@@ -1724,14 +1724,14 @@
 /area/f13/klamat)
 "afu" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 9
+	dir = 9;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "afv" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "afw" = (
@@ -1842,8 +1842,8 @@
 "afO" = (
 /turf/open/floor/wood/f13/old,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 1
+	dir = 1;
+	icon_state = "girder-end"
 	},
 /area/f13/klamat)
 "afP" = (
@@ -1866,8 +1866,8 @@
 	dir = 1
 	},
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
-	icon_state = "bench_center"
+	icon_state = "bench_center";
+	name = "stool"
 	},
 /turf/open/floor/wood/f13/old,
 /area/f13/klamat)
@@ -2080,9 +2080,9 @@
 /area/f13/klamat)
 "agA" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 4;
 	icon_state = "bench";
-	dir = 4
+	name = "stool"
 	},
 /obj/effect/spawner/lootdrop/f13/alcoholspawner,
 /turf/open/floor/wood/f13/old,
@@ -2106,8 +2106,8 @@
 /area/f13/desert)
 "agE" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "agF" = (
@@ -2126,8 +2126,8 @@
 /area/f13/legioncamp)
 "agH" = (
 /obj/structure/chair/wood/normal{
-	icon_state = "wooden_chair";
-	dir = 4
+	dir = 4;
+	icon_state = "wooden_chair"
 	},
 /obj/effect/landmark/start/f13/vexillarius,
 /turf/open/floor/wood/f13/old,
@@ -2267,8 +2267,8 @@
 /area/f13/klamat/mine)
 "ahb" = (
 /obj/structure/window{
-	icon_state = "window";
-	dir = 10
+	dir = 10;
+	icon_state = "window"
 	},
 /obj/structure/grille,
 /turf/open/floor/plating,
@@ -2326,8 +2326,8 @@
 /area/f13/klamat/mine)
 "ahj" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "ahk" = (
@@ -2364,8 +2364,8 @@
 /area/f13/legioncamp)
 "ahp" = (
 /obj/structure/chair/comfy/brown{
-	icon_state = "comfychair";
-	dir = 8
+	dir = 8;
+	icon_state = "comfychair"
 	},
 /turf/open/floor/wood/f13/old,
 /area/f13/legioncamp)
@@ -2383,13 +2383,13 @@
 /area/f13/legioncamp)
 "ahs" = (
 /obj/structure/chair/comfy/brown{
-	icon_state = "comfychair";
-	dir = 8
+	dir = 8;
+	icon_state = "comfychair"
 	},
 /obj/effect/decal/cleanable/blood/old,
 /obj/effect/decal/cleanable/blood/tracks{
-	icon_state = "tracks";
-	dir = 9
+	dir = 9;
+	icon_state = "tracks"
 	},
 /turf/open/floor/wood/f13/old,
 /area/f13/legioncamp)
@@ -2445,14 +2445,14 @@
 /area/f13/klamat/mine)
 "ahy" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-end"
 	},
 /area/f13/legioncamp)
 "ahz" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 8
+	dir = 8;
+	icon_state = "girder-end"
 	},
 /area/f13/legioncamp)
 "ahA" = (
@@ -2464,12 +2464,12 @@
 /area/f13/klamat/mine)
 "ahB" = (
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 9
+	dir = 9;
+	icon_state = "corner"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "ahC" = (
@@ -2507,8 +2507,8 @@
 "ahG" = (
 /obj/structure/fence/corner,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "ahH" = (
@@ -2521,15 +2521,15 @@
 "ahI" = (
 /obj/structure/fence,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "ahJ" = (
 /obj/structure/fence,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "ahK" = (
@@ -2637,12 +2637,12 @@
 /area/f13/klamat/mine)
 "ahZ" = (
 /obj/structure/fence/corner{
-	icon_state = "end";
-	dir = 8
+	dir = 8;
+	icon_state = "end"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "aia" = (
@@ -2651,8 +2651,8 @@
 	icon_state = "end"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "aib" = (
@@ -2750,8 +2750,8 @@
 /area/f13/underground/mountain)
 "aio" = (
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 9
+	dir = 9;
+	icon_state = "corner"
 	},
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/desert)
@@ -2805,8 +2805,8 @@
 /area/f13/legioncamp)
 "aiA" = (
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 9
+	dir = 9;
+	icon_state = "corner"
 	},
 /turf/open/floor/plating/f13/inside/mountain,
 /area/f13/legioncamp)
@@ -2819,8 +2819,8 @@
 /area/f13/legioncamp)
 "aiC" = (
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 5
+	dir = 5;
+	icon_state = "corner"
 	},
 /turf/open/floor/plating/f13/inside/mountain,
 /area/f13/legioncamp)
@@ -2964,8 +2964,8 @@
 /area/f13/desert)
 "aiW" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "aiX" = (
@@ -3028,8 +3028,8 @@
 /area/f13/deepmine)
 "ajf" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/desert)
@@ -3042,8 +3042,8 @@
 /area/f13/legioncamp)
 "ajh" = (
 /obj/structure/fence/corner{
-	icon_state = "end";
-	dir = 8
+	dir = 8;
+	icon_state = "end"
 	},
 /turf/open/floor/plating/f13/inside/mountain,
 /area/f13/legioncamp)
@@ -3073,14 +3073,14 @@
 /area/f13/underground/mountain)
 "ajm" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerturn";
-	dir = 8
+	dir = 8;
+	icon_state = "outerturn"
 	},
 /area/f13/desert)
 "ajn" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innercornerpieceleft";
-	dir = 8
+	dir = 8;
+	icon_state = "innercornerpieceleft"
 	},
 /area/f13/desert)
 "ajo" = (
@@ -3154,14 +3154,14 @@
 /area/f13/deepmine)
 "ajx" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerbordercorner";
-	dir = 4
+	dir = 4;
+	icon_state = "outerbordercorner"
 	},
 /area/f13/desert)
 "ajy" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerturn";
-	dir = 4
+	dir = 4;
+	icon_state = "outerturn"
 	},
 /area/f13/desert)
 "ajz" = (
@@ -3180,8 +3180,8 @@
 /area/f13/farmhouse)
 "ajC" = (
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 5
+	dir = 5;
+	icon_state = "corner"
 	},
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/desert)
@@ -3887,8 +3887,8 @@
 	icon_state = "wood2"
 	},
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-end"
 	},
 /area/f13/farmhouse)
 "ama" = (
@@ -3896,8 +3896,8 @@
 	icon_state = "wood2"
 	},
 /turf/closed/wall/f13wood{
-	icon_state = "girder-middle";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-middle"
 	},
 /area/f13/farmhouse)
 "amb" = (
@@ -3905,8 +3905,8 @@
 	icon_state = "wood2"
 	},
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 8
+	dir = 8;
+	icon_state = "girder-end"
 	},
 /area/f13/farmhouse)
 "amc" = (
@@ -6405,8 +6405,8 @@
 "asS" = (
 /obj/machinery/computer/vertibird_console,
 /turf/open/floor/f13{
-	tag = "icon-floordirtysolid";
-	icon_state = "floordirtysolid"
+	icon_state = "floordirtysolid";
+	tag = "icon-floordirtysolid"
 	},
 /area/f13/admeme)
 "asT" = (
@@ -6742,8 +6742,8 @@
 	dir = 1
 	},
 /obj/effect/turf_decal{
-	icon_state = "warningline";
-	dir = 4
+	dir = 4;
+	icon_state = "warningline"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/dark,
 /area/hallway/secondary/exit)
@@ -7024,8 +7024,8 @@
 /area/crew_quarters/bar/atrium)
 "aug" = (
 /obj/effect/turf_decal{
-	icon_state = "warningline";
-	dir = 4
+	dir = 4;
+	icon_state = "warningline"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/dark,
 /area/hallway/secondary/exit)
@@ -7068,15 +7068,15 @@
 /obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier3,
 /mob/living/simple_animal/hostile/mimic/crate,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 9
+	dir = 9;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "aum" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 8;
 	icon_state = "bench";
-	dir = 8
+	name = "stool"
 	},
 /mob/living/simple_animal/hostile/ghoul,
 /turf/open/floor/wood/f13/old,
@@ -7092,8 +7092,8 @@
 /area/f13/underground/enclave_base)
 "auo" = (
 /obj/machinery/computer/shuttle/enclavefortelevator{
-	icon_state = "computer";
-	dir = 8
+	dir = 8;
+	icon_state = "computer"
 	},
 /turf/open/floor/plasteel/f13/vault_floor{
 	icon_state = "floorgrime"
@@ -7212,8 +7212,8 @@
 	icon_state = "1-4"
 	},
 /obj/machinery/camera/autoname{
-	icon_state = "camera";
-	dir = 1
+	dir = 1;
+	icon_state = "camera"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/blue,
 /area/crew_quarters/heads/hos)
@@ -7379,8 +7379,8 @@
 	dir = 8
 	},
 /obj/machinery/camera/autoname{
-	icon_state = "camera";
-	dir = 1
+	dir = 1;
+	icon_state = "camera"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/cafeteria,
 /area/crew_quarters/bar/atrium)
@@ -7730,8 +7730,8 @@
 	},
 /obj/item/twohanded/required/kirbyplants/random,
 /turf/open/floor/plasteel/f13/vault_floor/yellow/corner{
-	icon_state = "yellowcorner";
-	dir = 1
+	dir = 1;
+	icon_state = "yellowcorner"
 	},
 /area/f13/underground/vault_atrium_upper)
 "avx" = (
@@ -7902,8 +7902,8 @@
 /area/hallway/secondary/exit)
 "avQ" = (
 /obj/effect/turf_decal{
-	icon_state = "warningline";
-	dir = 4
+	dir = 4;
+	icon_state = "warningline"
 	},
 /obj/effect/turf_decal/caution/stand_clear,
 /turf/open/floor/plasteel/f13/vault_floor/dark,
@@ -8036,8 +8036,8 @@
 	pixel_y = -32
 	},
 /obj/machinery/camera/autoname{
-	icon_state = "camera";
-	dir = 1
+	dir = 1;
+	icon_state = "camera"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/purple/corner,
 /area/f13/underground/vault_atrium_upper)
@@ -8120,8 +8120,8 @@
 	icon_state = "4-8"
 	},
 /obj/machinery/camera/autoname{
-	icon_state = "camera";
-	dir = 1
+	dir = 1;
+	icon_state = "camera"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/floor,
 /area/hallway/secondary/exit)
@@ -8160,8 +8160,8 @@
 "awy" = (
 /obj/machinery/light,
 /obj/effect/turf_decal{
-	icon_state = "warningline";
-	dir = 4
+	dir = 4;
+	icon_state = "warningline"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/dark,
 /area/hallway/secondary/exit)
@@ -8241,8 +8241,8 @@
 /area/f13/tunnel)
 "awK" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerturn";
-	dir = 1
+	dir = 1;
+	icon_state = "outerturn"
 	},
 /area/f13/desert)
 "awL" = (
@@ -9241,8 +9241,8 @@
 "azm" = (
 /obj/machinery/vending/cigarette,
 /obj/machinery/camera/autoname{
-	icon_state = "camera";
-	dir = 1
+	dir = 1;
+	icon_state = "camera"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/floor,
 /area/f13/underground/vault_atrium_upper)
@@ -9537,8 +9537,8 @@
 "azY" = (
 /obj/effect/turf_decal/stripes/line,
 /obj/machinery/camera/autoname{
-	icon_state = "camera";
-	dir = 1
+	dir = 1;
+	icon_state = "camera"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/purple/whitepurplefull,
 /area/science/research)
@@ -9628,8 +9628,8 @@
 "aAi" = (
 /obj/machinery/light,
 /obj/machinery/camera/autoname{
-	icon_state = "camera";
-	dir = 1
+	dir = 1;
+	icon_state = "camera"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/dark,
 /area/hallway/secondary/exit)
@@ -9819,8 +9819,8 @@
 /obj/machinery/hydroponics/constructable,
 /obj/machinery/light,
 /obj/machinery/camera/autoname{
-	icon_state = "camera";
-	dir = 1
+	dir = 1;
+	icon_state = "camera"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/green/whitegreenfull,
 /area/hydroponics/garden)
@@ -9946,8 +9946,8 @@
 /obj/item/twohanded/required/kirbyplants/random,
 /obj/machinery/camera/autoname,
 /turf/open/floor/plasteel/f13/vault_floor/yellow/corner{
-	icon_state = "yellowcorner";
-	dir = 1
+	dir = 1;
+	icon_state = "yellowcorner"
 	},
 /area/f13/underground/vault_atrium_upper)
 "aAU" = (
@@ -10064,8 +10064,8 @@
 	},
 /obj/structure/window/reinforced,
 /obj/machinery/door/window/eastleft{
-	icon_state = "right";
-	dir = 8
+	dir = 8;
+	icon_state = "right"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/hallway/secondary/exit)
@@ -10106,12 +10106,12 @@
 /area/f13/desert)
 "aBo" = (
 /obj/machinery/computer/shuttle/vaultelevator{
-	icon_state = "computer";
-	dir = 4
+	dir = 4;
+	icon_state = "computer"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/yellow/corner{
-	icon_state = "yellowcorner";
-	dir = 1
+	dir = 1;
+	icon_state = "yellowcorner"
 	},
 /area/f13/underground/vault_atrium_upper)
 "aBp" = (
@@ -10163,8 +10163,8 @@
 	},
 /obj/structure/window/reinforced,
 /obj/machinery/door/window/eastleft{
-	icon_state = "right";
-	dir = 8
+	dir = 8;
+	icon_state = "right"
 	},
 /obj/effect/decal/cleanable/vomit/old,
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
@@ -10288,8 +10288,8 @@
 	dir = 8
 	},
 /obj/machinery/door/window/eastleft{
-	icon_state = "right";
-	dir = 8
+	dir = 8;
+	icon_state = "right"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/hallway/secondary/exit)
@@ -11157,9 +11157,9 @@
 /area/f13/desert)
 "aDX" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 4;
 	icon_state = "bench";
-	dir = 4
+	name = "stool"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "floorgrime"
@@ -11167,8 +11167,8 @@
 /area/f13/underground/enclave_base)
 "aDY" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
-	icon_state = "bench_center"
+	icon_state = "bench_center";
+	name = "stool"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "floorgrime"
@@ -11176,9 +11176,9 @@
 /area/f13/underground/enclave_base)
 "aDZ" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 8;
 	icon_state = "bench";
-	dir = 8
+	name = "stool"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "floorgrime"
@@ -11548,8 +11548,8 @@
 	pixel_y = -25
 	},
 /obj/machinery/camera/autoname{
-	icon_state = "camera";
-	dir = 1
+	dir = 1;
+	icon_state = "camera"
 	},
 /obj/machinery/recharger,
 /turf/open/floor/plasteel/f13/vault_floor/red/whiteredfull,
@@ -11823,15 +11823,15 @@
 "aFB" = (
 /obj/structure/window/fulltile/wood_window,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 5
+	dir = 5;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "aFC" = (
 /obj/structure/window/fulltile/wood_window,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 10
+	dir = 10;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "aFD" = (
@@ -11979,8 +11979,8 @@
 /obj/effect/spawner/lootdrop/f13/weapon/gun/tier3,
 /mob/living/simple_animal/hostile/mimic/crate,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 10
+	dir = 10;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "aGb" = (
@@ -12079,20 +12079,20 @@
 /area/f13/den)
 "aGr" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-end"
 	},
 /area/f13/den)
 "aGs" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 8
+	dir = 8;
+	icon_state = "girder-end"
 	},
 /area/f13/den)
 "aGt" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "horizontaloutermain0"
@@ -12129,15 +12129,15 @@
 /area/f13/underground/enclave_base)
 "aGz" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/inside/mountain,
 /area/f13/underground/mountain)
 "aGA" = (
 /obj/structure/fence/corner{
-	icon_state = "end";
-	dir = 8
+	dir = 8;
+	icon_state = "end"
 	},
 /turf/open/floor/plating/f13/inside/mountain,
 /area/f13/underground/mountain)
@@ -12204,8 +12204,8 @@
 	icon_state = "candy"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "aGL" = (
@@ -12225,8 +12225,8 @@
 /obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /obj/effect/turf_decal/delivery,
 /obj/machinery/camera/autoname{
-	icon_state = "camera";
-	dir = 1
+	dir = 1;
+	icon_state = "camera"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite,
 /area/medical/medbay/central)
@@ -12588,8 +12588,8 @@
 "aHL" = (
 /obj/structure/bed,
 /obj/item/bedsheet{
-	tag = "icon-sheetgrey";
-	icon_state = "sheetgrey"
+	icon_state = "sheetgrey";
+	tag = "icon-sheetgrey"
 	},
 /obj/machinery/light{
 	dir = 1
@@ -12605,8 +12605,8 @@
 /obj/structure/table/wood,
 /obj/effect/spawner/lootdrop/f13/armor/tier1,
 /turf/open/floor/f13/wood{
-	tag = "icon-housewood3-broken";
-	icon_state = "housewood3-broken"
+	icon_state = "housewood3-broken";
+	tag = "icon-housewood3-broken"
 	},
 /area/f13/den)
 "aHO" = (
@@ -12695,8 +12695,8 @@
 "aIa" = (
 /obj/structure/fence,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "aIb" = (
@@ -12882,8 +12882,8 @@
 "aID" = (
 /obj/structure/fence,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "aIE" = (
@@ -12910,9 +12910,9 @@
 /area/f13/sunny_dale)
 "aII" = (
 /obj/structure/chair/wood/modern{
-	tag = "icon-wooden_chair_new (NORTH)";
+	dir = 1;
 	icon_state = "wooden_chair_new";
-	dir = 1
+	tag = "icon-wooden_chair_new (NORTH)"
 	},
 /turf/open/floor/f13/wood,
 /area/f13/den)
@@ -13034,8 +13034,8 @@
 /obj/structure/closet/cabinet,
 /obj/effect/spawner/lootdrop/f13/alcoholspawner,
 /turf/open/floor/f13/wood{
-	tag = "icon-housewood3-broken";
-	icon_state = "housewood3-broken"
+	icon_state = "housewood3-broken";
+	tag = "icon-housewood3-broken"
 	},
 /area/f13/den)
 "aJd" = (
@@ -13064,8 +13064,8 @@
 /area/f13/underground/enclave_base)
 "aJg" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerbordercorner";
-	dir = 2
+	dir = 2;
+	icon_state = "outerbordercorner"
 	},
 /area/f13/desert)
 "aJh" = (
@@ -13104,8 +13104,8 @@
 /area/f13/sunny_dale)
 "aJm" = (
 /obj/machinery/sleeper{
-	icon_state = "sleeper-open";
-	dir = 4
+	dir = 4;
+	icon_state = "sleeper-open"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "whitebluerustychess"
@@ -13368,8 +13368,8 @@
 /area/f13/underground/enclave_base)
 "aJZ" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerborder";
-	dir = 8
+	dir = 8;
+	icon_state = "outerborder"
 	},
 /area/f13/desert)
 "aKa" = (
@@ -13414,8 +13414,8 @@
 /area/f13/sunny_dale)
 "aKg" = (
 /obj/machinery/computer/scan_consolenew{
-	icon_state = "computer";
-	dir = 1
+	dir = 1;
+	icon_state = "computer"
 	},
 /obj/machinery/light/small,
 /turf/open/floor/plasteel/f13{
@@ -13431,15 +13431,15 @@
 	dir = 9
 	},
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 9
+	dir = 9;
+	icon_state = "corner"
 	},
 /turf/open/floor/plating,
 /area/f13/desert)
 "aKj" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /obj/effect/turf_decal/stripes/line{
 	dir = 1
@@ -13458,8 +13458,8 @@
 	dir = 5
 	},
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 5
+	dir = 5;
+	icon_state = "corner"
 	},
 /turf/open/floor/plating,
 /area/f13/desert)
@@ -13482,8 +13482,8 @@
 /area/f13/den)
 "aKp" = (
 /obj/effect/turf_decal/stripes/line{
-	icon_state = "warningline";
-	dir = 6
+	dir = 6;
+	icon_state = "warningline"
 	},
 /turf/open/floor/plating,
 /area/f13/underground/enclave_base)
@@ -13547,8 +13547,8 @@
 /area/f13/desert)
 "aKz" = (
 /turf/open/floor/f13/wood{
-	tag = "icon-housewood4-broken";
-	icon_state = "housewood4-broken"
+	icon_state = "housewood4-broken";
+	tag = "icon-housewood4-broken"
 	},
 /area/f13/den)
 "aKA" = (
@@ -13588,8 +13588,8 @@
 /area/f13/den)
 "aKF" = (
 /obj/effect/turf_decal/stripes/red/line{
-	icon_state = "warningline_red";
-	dir = 4
+	dir = 4;
+	icon_state = "warningline_red"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "floorrustysolid"
@@ -13720,8 +13720,8 @@
 /obj/item/mop,
 /obj/item/reagent_containers/glass/bucket,
 /turf/open/floor/f13/wood{
-	tag = "icon-housewood2-broken";
-	icon_state = "housewood2-broken"
+	icon_state = "housewood2-broken";
+	tag = "icon-housewood2-broken"
 	},
 /area/f13/den)
 "aKY" = (
@@ -13773,8 +13773,8 @@
 /area/f13/underground/enclave_base)
 "aLg" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerborder";
-	dir = 1
+	dir = 1;
+	icon_state = "outerborder"
 	},
 /area/f13/desert)
 "aLh" = (
@@ -13799,12 +13799,12 @@
 /area/f13/sunny_dale)
 "aLk" = (
 /obj/structure/fence/corner{
-	icon_state = "end";
-	dir = 8
+	dir = 8;
+	icon_state = "end"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "aLl" = (
@@ -13839,8 +13839,8 @@
 	},
 /obj/structure/bed,
 /turf/open/floor/f13/wood{
-	tag = "icon-housewood3-broken";
-	icon_state = "housewood3-broken"
+	icon_state = "housewood3-broken";
+	tag = "icon-housewood3-broken"
 	},
 /area/f13/den)
 "aLr" = (
@@ -13866,8 +13866,8 @@
 /area/f13/sunny_dale)
 "aLu" = (
 /obj/machinery/computer/crew{
-	icon_state = "computer";
-	dir = 4
+	dir = 4;
+	icon_state = "computer"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "floorgrime"
@@ -13896,8 +13896,8 @@
 	icon_state = "tube"
 	},
 /turf/open/floor/f13/wood{
-	tag = "icon-housewood4-broken";
-	icon_state = "housewood4-broken"
+	icon_state = "housewood4-broken";
+	tag = "icon-housewood4-broken"
 	},
 /area/f13/den)
 "aLy" = (
@@ -13995,8 +13995,8 @@
 /area/f13/den)
 "aLJ" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerbordercorner";
-	dir = 1
+	dir = 1;
+	icon_state = "outerbordercorner"
 	},
 /area/f13/desert)
 "aLK" = (
@@ -14037,8 +14037,8 @@
 "aLP" = (
 /obj/structure/fence,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "aLQ" = (
@@ -14059,8 +14059,8 @@
 /area/f13/desert)
 "aLS" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /obj/effect/turf_decal/stripes/line,
 /turf/open/floor/plating,
@@ -14074,8 +14074,8 @@
 	dir = 6
 	},
 /obj/structure/fence/corner{
-	icon_state = "end";
-	dir = 8
+	dir = 8;
+	icon_state = "end"
 	},
 /turf/open/floor/plating,
 /area/f13/desert)
@@ -14090,8 +14090,8 @@
 "aLW" = (
 /obj/structure/reagent_dispensers/watertank,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 6
+	dir = 6;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "aLX" = (
@@ -14157,8 +14157,8 @@
 /obj/structure/closet/crate/trashcart,
 /obj/effect/decal/cleanable/greenglow,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "tinycornerhorizontal";
-	dir = 1
+	dir = 1;
+	icon_state = "tinycornerhorizontal"
 	},
 /area/f13/desert)
 "aMi" = (
@@ -14405,8 +14405,8 @@
 /area/f13/sunny_dale)
 "aMW" = (
 /obj/effect/turf_decal/stripes/line{
-	icon_state = "warningline";
-	dir = 10
+	dir = 10;
+	icon_state = "warningline"
 	},
 /turf/open/floor/plating,
 /area/f13/underground/enclave_base)
@@ -14578,8 +14578,8 @@
 /area/f13/sunny_dale)
 "aNB" = (
 /turf/open/floor/f13/wood{
-	tag = "icon-housewood3-broken";
-	icon_state = "housewood3-broken"
+	icon_state = "housewood3-broken";
+	tag = "icon-housewood3-broken"
 	},
 /area/f13/den)
 "aNC" = (
@@ -14591,20 +14591,20 @@
 /area/f13/sunny_dale)
 "aND" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-end"
 	},
 /area/f13/sunny_dale)
 "aNE" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-middle";
-	dir = 8
+	dir = 8;
+	icon_state = "girder-middle"
 	},
 /area/f13/sunny_dale)
 "aNF" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 8
+	dir = 8;
+	icon_state = "girder-end"
 	},
 /area/f13/sunny_dale)
 "aNG" = (
@@ -14666,8 +14666,8 @@
 	dir = 1
 	},
 /turf/open/floor/f13{
-	tag = "icon-floordirtysolid";
-	icon_state = "floordirtysolid"
+	icon_state = "floordirtysolid";
+	tag = "icon-floordirtysolid"
 	},
 /area/f13/admeme)
 "aNP" = (
@@ -14784,8 +14784,8 @@
 /area/f13/den)
 "aOh" = (
 /obj/item/bedsheet{
-	tag = "icon-sheetUSA";
-	icon_state = "sheetUSA"
+	icon_state = "sheetUSA";
+	tag = "icon-sheetUSA"
 	},
 /obj/structure/bed,
 /turf/open/floor/wood/f13/old,
@@ -14957,8 +14957,8 @@
 /area/f13/sunny_dale)
 "aOH" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 1
+	dir = 1;
+	icon_state = "girder-end"
 	},
 /area/f13/sunny_dale)
 "aOI" = (
@@ -15290,8 +15290,8 @@
 "aPB" = (
 /obj/structure/closet/cabinet,
 /turf/open/floor/f13/wood{
-	tag = "icon-housewood2-broken";
-	icon_state = "housewood2-broken"
+	icon_state = "housewood2-broken";
+	tag = "icon-housewood2-broken"
 	},
 /area/f13/den)
 "aPC" = (
@@ -15525,18 +15525,18 @@
 /area/f13/prison)
 "aQm" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "aQn" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "verticalleftborderleft0"
@@ -15544,8 +15544,8 @@
 /area/f13/desert)
 "aQo" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "innermiddle"
@@ -15553,8 +15553,8 @@
 /area/f13/desert)
 "aQp" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "verticalrightborderright0"
@@ -15562,12 +15562,12 @@
 /area/f13/desert)
 "aQq" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "aQr" = (
@@ -15744,8 +15744,8 @@
 /area/f13/sunny_dale)
 "aQT" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-middle";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-middle"
 	},
 /area/f13/sunny_dale)
 "aQU" = (
@@ -15830,15 +15830,15 @@
 /area/f13/desert)
 "aRi" = (
 /obj/structure/chair/wood{
-	icon_state = "wooden_chair";
-	dir = 8
+	dir = 8;
+	icon_state = "wooden_chair"
 	},
 /turf/open/floor/wood/f13/old,
 /area/f13/sunny_dale)
 "aRj" = (
 /obj/structure/chair/wood{
-	icon_state = "wooden_chair";
-	dir = 1
+	dir = 1;
+	icon_state = "wooden_chair"
 	},
 /turf/open/floor/wood/f13/old,
 /area/f13/sunny_dale)
@@ -15964,17 +15964,14 @@
 "aRA" = (
 /mob/living/simple_animal/hostile/ghoul,
 /turf/open/floor/plasteel/darkbrown/corner{
-	icon_state = "darkbrowncorners";
-	dir = 4
+	dir = 4;
+	icon_state = "darkbrowncorners"
 	},
 /area/f13/sunny_dale)
 "aRB" = (
 /obj/machinery/photocopier,
 /turf/open/floor/wood/f13/old,
 /area/f13/den)
-"aRC" = (
-/turf/closed/indestructible/f13/matrix,
-/area/f13/brotherhood)
 "aRD" = (
 /obj/structure/window/reinforced{
 	dir = 8
@@ -16057,8 +16054,8 @@
 /area/f13/den)
 "aRL" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "tinycornerhorizontal";
-	dir = 2
+	dir = 2;
+	icon_state = "tinycornerhorizontal"
 	},
 /area/f13/desert)
 "aRM" = (
@@ -16077,14 +16074,14 @@
 /area/f13/desert)
 "aRO" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "tinycornervertical";
-	dir = 2
+	dir = 2;
+	icon_state = "tinycornervertical"
 	},
 /area/f13/desert)
 "aRP" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innerturn";
-	dir = 1
+	dir = 1;
+	icon_state = "innerturn"
 	},
 /area/f13/desert)
 "aRQ" = (
@@ -16093,14 +16090,14 @@
 /area/f13/sunny_dale)
 "aRR" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innerturn";
-	dir = 4
+	dir = 4;
+	icon_state = "innerturn"
 	},
 /area/f13/desert)
 "aRS" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "tinycornervertical";
-	dir = 8
+	dir = 8;
+	icon_state = "tinycornervertical"
 	},
 /area/f13/desert)
 "aRT" = (
@@ -16111,8 +16108,8 @@
 /area/f13/desert)
 "aRU" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "verticalrightborderright3";
-	dir = 2
+	dir = 2;
+	icon_state = "verticalrightborderright3"
 	},
 /area/f13/desert)
 "aRV" = (
@@ -16124,14 +16121,14 @@
 /area/f13/underground/enclave_base)
 "aRW" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innerturn";
-	dir = 2
+	dir = 2;
+	icon_state = "innerturn"
 	},
 /area/f13/desert)
 "aRX" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "tinycornervertical";
-	dir = 1
+	dir = 1;
+	icon_state = "tinycornervertical"
 	},
 /area/f13/desert)
 "aRY" = (
@@ -16143,8 +16140,8 @@
 "aRZ" = (
 /obj/machinery/light/lampost,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerturn";
-	dir = 4
+	dir = 4;
+	icon_state = "outerturn"
 	},
 /area/f13/desert)
 "aSa" = (
@@ -16164,15 +16161,15 @@
 /area/f13/desert)
 "aSc" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "tinycornerhorizontal";
-	dir = 8
+	dir = 8;
+	icon_state = "tinycornerhorizontal"
 	},
 /area/f13/desert)
 "aSd" = (
 /turf/open/indestructible/ground/outside/desert,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-end"
 	},
 /area/f13/sunny_dale)
 "aSe" = (
@@ -16308,21 +16305,21 @@
 	},
 /obj/item/storage/toolbox/mechanical/old,
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 9
+	dir = 9;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "aSz" = (
 /obj/structure/rack,
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 1
+	dir = 1;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "aSA" = (
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 1
+	dir = 1;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "aSB" = (
@@ -16330,16 +16327,16 @@
 	req_access = null
 	},
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 1
+	dir = 1;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "aSC" = (
 /obj/structure/rack,
 /obj/effect/spawner/lootdrop/f13/resourcespawner,
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 1
+	dir = 1;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "aSD" = (
@@ -16349,8 +16346,8 @@
 	name = "2maintenance loot spawner"
 	},
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 5
+	dir = 5;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "aSE" = (
@@ -16468,14 +16465,14 @@
 /area/f13/sunny_dale)
 "aSU" = (
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 8
+	dir = 8;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "aSV" = (
 /turf/open/floor/plasteel/darkbrown/corner{
-	icon_state = "darkbrowncorners";
-	dir = 1
+	dir = 1;
+	icon_state = "darkbrowncorners"
 	},
 /area/f13/sunny_dale)
 "aSW" = (
@@ -16483,14 +16480,14 @@
 /area/f13/sunny_dale)
 "aSX" = (
 /turf/open/floor/plasteel/darkbrown/corner{
-	icon_state = "darkbrowncorners";
-	dir = 8
+	dir = 8;
+	icon_state = "darkbrowncorners"
 	},
 /area/f13/sunny_dale)
 "aSY" = (
 /turf/open/floor/plasteel/darkbrown/corner{
-	icon_state = "darkbrowncorners";
-	dir = 4
+	dir = 4;
+	icon_state = "darkbrowncorners"
 	},
 /area/f13/sunny_dale)
 "aSZ" = (
@@ -16498,8 +16495,8 @@
 	dir = 4
 	},
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 4
+	dir = 4;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "aTa" = (
@@ -16712,8 +16709,8 @@
 /obj/structure/rack,
 /obj/effect/spawner/lootdrop/maintenance,
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 10
+	dir = 10;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "aTD" = (
@@ -16730,14 +16727,14 @@
 /area/f13/sunny_dale)
 "aTG" = (
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 6
+	dir = 6;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "aTH" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-middle";
-	dir = 1
+	dir = 1;
+	icon_state = "girder-middle"
 	},
 /area/f13/sunny_dale)
 "aTI" = (
@@ -16965,8 +16962,8 @@
 	dir = 1
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavement"
 	},
 /area/f13/sunny_dale)
 "aUr" = (
@@ -16977,8 +16974,8 @@
 /obj/structure/rack,
 /obj/effect/spawner/lootdrop/f13/weapon/melee/tier3,
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 4
+	dir = 4;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "aUt" = (
@@ -17014,8 +17011,8 @@
 	icon_state = "horizontaloutermain0"
 	},
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 1
+	dir = 1;
+	icon_state = "girder-end"
 	},
 /area/f13/sunny_dale)
 "aUy" = (
@@ -17186,8 +17183,8 @@
 	dir = 4
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/sunny_dale)
 "aUY" = (
@@ -17662,8 +17659,8 @@
 "aWq" = (
 /turf/open/floor/wood/f13/old/ruinedcornerendtr,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-b";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-b"
 	},
 /area/f13/sunny_dale)
 "aWr" = (
@@ -17751,14 +17748,14 @@
 /area/f13/sunny_dale)
 "aWI" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "tinycornervertical";
-	dir = 4
+	dir = 4;
+	icon_state = "tinycornervertical"
 	},
 /area/f13/desert)
 "aWJ" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innerturn";
-	dir = 8
+	dir = 8;
+	icon_state = "innerturn"
 	},
 /area/f13/desert)
 "aWK" = (
@@ -17841,8 +17838,8 @@
 "aWV" = (
 /turf/open/floor/wood/f13/old,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 1
+	dir = 1;
+	icon_state = "girder-end"
 	},
 /area/f13/sunny_dale)
 "aWW" = (
@@ -17961,8 +17958,8 @@
 	dir = 1
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerbordercorner";
-	dir = 2
+	dir = 2;
+	icon_state = "outerbordercorner"
 	},
 /area/f13/sunny_dale)
 "aXp" = (
@@ -17992,14 +17989,14 @@
 /area/f13/sunny_dale)
 "aXs" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "tinycornerhorizontal";
-	dir = 4
+	dir = 4;
+	icon_state = "tinycornerhorizontal"
 	},
 /area/f13/desert)
 "aXt" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "tinycornerhorizontal";
-	dir = 1
+	dir = 1;
+	icon_state = "tinycornerhorizontal"
 	},
 /area/f13/desert)
 "aXu" = (
@@ -18086,8 +18083,8 @@
 	dir = 1
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavement"
 	},
 /area/f13/sunny_dale)
 "aXH" = (
@@ -18144,8 +18141,8 @@
 	dir = 4
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/sunny_dale)
 "aXR" = (
@@ -18154,18 +18151,18 @@
 /area/f13/sunny_dale)
 "aXS" = (
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 9
+	dir = 9;
+	icon_state = "corner"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerbordercorner";
-	dir = 2
+	dir = 2;
+	icon_state = "outerbordercorner"
 	},
 /area/f13/desert)
 "aXT" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "horizontaltopbordertop0"
@@ -18403,8 +18400,8 @@
 "aYB" = (
 /obj/machinery/light/small,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerbordercorner";
-	dir = 4
+	dir = 4;
+	icon_state = "outerbordercorner"
 	},
 /area/f13/sunny_dale)
 "aYC" = (
@@ -18567,8 +18564,8 @@
 /area/f13/sunny_dale)
 "aYZ" = (
 /obj/structure/chair/comfy/black{
-	icon_state = "comfychair";
-	dir = 1
+	dir = 1;
+	icon_state = "comfychair"
 	},
 /obj/machinery/light,
 /turf/open/floor/wood/f13/old,
@@ -18755,8 +18752,8 @@
 /area/f13/sunny_dale)
 "aZC" = (
 /obj/effect/turf_decal/loading_area{
-	icon_state = "loadingarea";
-	dir = 4
+	dir = 4;
+	icon_state = "loadingarea"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "innermiddle"
@@ -18864,15 +18861,15 @@
 "aZU" = (
 /obj/effect/decal/cleanable/robot_debris/gib,
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 9
+	dir = 9;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "aZV" = (
 /obj/structure/chair/office/dark,
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 1
+	dir = 1;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "aZW" = (
@@ -18881,8 +18878,8 @@
 	icon_state = "cobweb2"
 	},
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 5
+	dir = 5;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "aZX" = (
@@ -18953,8 +18950,8 @@
 /obj/structure/table/wood,
 /obj/item/paper_bin,
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 8
+	dir = 8;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "bai" = (
@@ -18975,8 +18972,8 @@
 /area/f13/sunny_dale)
 "bal" = (
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 4
+	dir = 4;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "bam" = (
@@ -19050,8 +19047,8 @@
 "bax" = (
 /mob/living/simple_animal/hostile/ghoul,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "bay" = (
@@ -19211,8 +19208,8 @@
 "baS" = (
 /obj/structure/chair/stool,
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 8
+	dir = 8;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "baT" = (
@@ -19227,15 +19224,15 @@
 "baU" = (
 /obj/structure/chair/stool,
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 4
+	dir = 4;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "baV" = (
 /obj/structure/fence,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerturn";
-	dir = 4
+	dir = 4;
+	icon_state = "outerturn"
 	},
 /area/f13/desert)
 "baW" = (
@@ -19449,8 +19446,8 @@
 "bbz" = (
 /obj/structure/barricade/wooden,
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 10
+	dir = 10;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "bbA" = (
@@ -19460,8 +19457,8 @@
 "bbB" = (
 /obj/structure/chair/stool,
 /turf/open/floor/plasteel/darkbrown/side{
-	icon_state = "darkbrown";
-	dir = 6
+	dir = 6;
+	icon_state = "darkbrown"
 	},
 /area/f13/sunny_dale)
 "bbC" = (
@@ -19650,9 +19647,9 @@
 /area/f13/sunny_dale)
 "bcd" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 4;
 	icon_state = "bench";
-	dir = 4
+	name = "stool"
 	},
 /obj/item/gun/ballistic/revolver/m29/alt,
 /turf/open/floor/plasteel/f13{
@@ -19661,8 +19658,8 @@
 /area/f13/sunny_dale)
 "bce" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
-	icon_state = "bench_center"
+	icon_state = "bench_center";
+	name = "stool"
 	},
 /obj/item/ammo_box/m44,
 /turf/open/floor/plasteel/f13{
@@ -19749,14 +19746,14 @@
 	icon_state = "end"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerbordercorner";
-	dir = 4
+	dir = 4;
+	icon_state = "outerbordercorner"
 	},
 /area/f13/desert)
 "bcp" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "horizontalbottomborderbottom0"
@@ -19907,8 +19904,8 @@
 /area/f13/sunny_dale)
 "bcK" = (
 /obj/machinery/light/small/broken{
-	icon_state = "bulb-broken";
-	dir = 4
+	dir = 4;
+	icon_state = "bulb-broken"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "verticalrightborderright0"
@@ -20003,9 +20000,9 @@
 /area/f13/sunny_dale)
 "bcY" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 4;
 	icon_state = "bench";
-	dir = 4
+	name = "stool"
 	},
 /obj/item/clothing/glasses/sunglasses,
 /turf/open/floor/plasteel/f13{
@@ -20023,8 +20020,8 @@
 /area/f13/sunny_dale)
 "bda" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
-	icon_state = "bench_center"
+	icon_state = "bench_center";
+	name = "stool"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "platingdmg2"
@@ -20032,9 +20029,9 @@
 /area/f13/sunny_dale)
 "bdb" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 8;
 	icon_state = "bench";
-	dir = 8
+	name = "stool"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "panelscorched"
@@ -20056,8 +20053,8 @@
 /area/f13/sunny_dale)
 "bde" = (
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 5
+	dir = 5;
+	icon_state = "corner"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "verticaloutermain2"
@@ -20251,9 +20248,9 @@
 /area/f13/sunny_dale)
 "bdE" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 8;
 	icon_state = "bench";
-	dir = 8
+	name = "stool"
 	},
 /obj/effect/spawner/lootdrop/f13/junkspawners,
 /turf/open/floor/plasteel/f13{
@@ -20305,9 +20302,9 @@
 /area/f13/sunny_dale)
 "bdL" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 4;
 	icon_state = "bench";
-	dir = 4
+	name = "stool"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "horizontaloutermain0"
@@ -20315,8 +20312,8 @@
 /area/f13/sunny_dale)
 "bdM" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
-	icon_state = "bench_center"
+	icon_state = "bench_center";
+	name = "stool"
 	},
 /obj/machinery/light/small,
 /turf/open/floor/plating/f13/outside/road{
@@ -20325,8 +20322,8 @@
 /area/f13/sunny_dale)
 "bdN" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
-	icon_state = "bench_center"
+	icon_state = "bench_center";
+	name = "stool"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "horizontaloutermain0"
@@ -20334,9 +20331,9 @@
 /area/f13/sunny_dale)
 "bdO" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 8;
 	icon_state = "bench";
-	dir = 8
+	name = "stool"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "horizontaloutermain0"
@@ -20482,8 +20479,8 @@
 /area/f13/sunny_dale)
 "bei" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
-	icon_state = "bench_center"
+	icon_state = "bench_center";
+	name = "stool"
 	},
 /obj/effect/spawner/lootdrop/f13/weapon/gun/tier3,
 /obj/effect/spawner/lootdrop/f13/junkspawners,
@@ -21137,8 +21134,8 @@
 /area/f13/raider_mall)
 "bge" = (
 /obj/structure/fence/corner{
-	icon_state = "end";
-	dir = 8
+	dir = 8;
+	icon_state = "end"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "floorrustysolid"
@@ -21167,8 +21164,8 @@
 "bgj" = (
 /turf/open/indestructible/ground/outside/desert,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 8
+	dir = 8;
+	icon_state = "girder-end"
 	},
 /area/f13/sunny_dale)
 "bgk" = (
@@ -21388,8 +21385,8 @@
 "bgV" = (
 /turf/open/floor/wood/f13/old/ruinedstraighteast,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-middle";
-	dir = 1
+	dir = 1;
+	icon_state = "girder-middle"
 	},
 /area/f13/sunny_dale)
 "bgW" = (
@@ -21427,9 +21424,9 @@
 /area/f13/desert)
 "bhb" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 4;
 	icon_state = "bench";
-	dir = 4
+	name = "stool"
 	},
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/desert)
@@ -21494,8 +21491,8 @@
 "bhl" = (
 /turf/open/floor/wood/f13/old/ruinedstraighteast,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 1
+	dir = 1;
+	icon_state = "girder-end"
 	},
 /area/f13/sunny_dale)
 "bhm" = (
@@ -21546,16 +21543,16 @@
 /area/f13/desert)
 "bhv" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
-	icon_state = "bench_center"
+	icon_state = "bench_center";
+	name = "stool"
 	},
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/desert)
 "bhw" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 8;
 	icon_state = "bench";
-	dir = 8
+	name = "stool"
 	},
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/desert)
@@ -21575,9 +21572,9 @@
 /area/f13/raider_mall)
 "bhz" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 4;
 	icon_state = "bench";
-	dir = 4
+	name = "stool"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "floorrusty"
@@ -21590,9 +21587,9 @@
 /area/f13/sunny_dale)
 "bhB" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 8;
 	icon_state = "bench";
-	dir = 8
+	name = "stool"
 	},
 /obj/item/trash/can{
 	icon_state = "sugarbombs"
@@ -21631,8 +21628,8 @@
 /area/f13/raider_mall)
 "bhF" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
-	icon_state = "bench_center"
+	icon_state = "bench_center";
+	name = "stool"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "floorrusty"
@@ -21640,9 +21637,9 @@
 /area/f13/raider_mall)
 "bhG" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 8;
 	icon_state = "bench";
-	dir = 8
+	name = "stool"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "platingdmg3"
@@ -21861,8 +21858,8 @@
 "bim" = (
 /turf/open/indestructible/ground/outside/desert,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 8
+	dir = 8;
+	icon_state = "girder-end"
 	},
 /area/f13/desert)
 "bin" = (
@@ -21981,9 +21978,9 @@
 /area/f13/desert)
 "biJ" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 4;
 	icon_state = "bench";
-	dir = 4
+	name = "stool"
 	},
 /obj/machinery/camera/autoname{
 	dir = 1;
@@ -22003,9 +22000,9 @@
 /area/f13/raider_mall)
 "biL" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 8;
 	icon_state = "bench";
-	dir = 8
+	name = "stool"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "floorrusty"
@@ -22019,9 +22016,9 @@
 /area/f13/raider_mall)
 "biN" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 8;
 	icon_state = "bench";
-	dir = 8
+	name = "stool"
 	},
 /obj/machinery/light,
 /turf/open/floor/plasteel/f13{
@@ -22144,8 +22141,8 @@
 "bjc" = (
 /turf/open/indestructible/ground/outside/desert,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-b";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-b"
 	},
 /area/f13/desert)
 "bjd" = (
@@ -22381,8 +22378,8 @@
 	icon_state = "housewood1-broken"
 	},
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 1
+	dir = 1;
+	icon_state = "girder-end"
 	},
 /area/f13/sunny_dale)
 "bjJ" = (
@@ -22498,8 +22495,8 @@
 /area/f13/raider_mall)
 "bjZ" = (
 /obj/structure/chair/office/dark{
-	icon_state = "officechair_dark";
-	dir = 8
+	dir = 8;
+	icon_state = "officechair_dark"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "redrustyfull"
@@ -22607,8 +22604,8 @@
 "bkl" = (
 /turf/open/floor/wood/f13/old,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-middle";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-middle"
 	},
 /area/f13/desert)
 "bkm" = (
@@ -22715,8 +22712,8 @@
 /area/f13/raider_mall)
 "bkB" = (
 /obj/effect/turf_decal/stripes/line{
-	icon_state = "warningline";
-	dir = 5
+	dir = 5;
+	icon_state = "warningline"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "plating"
@@ -22745,12 +22742,12 @@
 	dir = 8
 	},
 /obj/structure/window/reinforced{
-	icon_state = "fwindow";
-	dir = 1
+	dir = 1;
+	icon_state = "fwindow"
 	},
 /obj/structure/window/reinforced{
-	icon_state = "fwindow";
-	dir = 4
+	dir = 4;
+	icon_state = "fwindow"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "floorrustysolid"
@@ -22774,8 +22771,8 @@
 /area/f13/mountain_bunker)
 "bkG" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /obj/structure/fence/corner,
 /turf/open/indestructible/ground/outside/desert,
@@ -22851,8 +22848,8 @@
 	icon_state = "housewood3-broken1"
 	},
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-end"
 	},
 /area/f13/sunny_dale)
 "bkR" = (
@@ -22860,15 +22857,15 @@
 	icon_state = "housewood3-broken2"
 	},
 /turf/closed/wall/f13wood{
-	icon_state = "girder-middle";
-	dir = 8
+	dir = 8;
+	icon_state = "girder-middle"
 	},
 /area/f13/sunny_dale)
 "bkS" = (
 /turf/open/floor/wood/f13/old/ruinedstraightnorth,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-b";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-b"
 	},
 /area/f13/sunny_dale)
 "bkT" = (
@@ -22886,8 +22883,8 @@
 	icon_state = "housewood3-broken1"
 	},
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 8
+	dir = 8;
+	icon_state = "girder-end"
 	},
 /area/f13/sunny_dale)
 "bkW" = (
@@ -23015,8 +23012,8 @@
 "blr" = (
 /mob/living/simple_animal/hostile/ghoul,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bls" = (
@@ -23040,15 +23037,15 @@
 "blv" = (
 /turf/open/indestructible/ground/outside/desert,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-end"
 	},
 /area/f13/desert)
 "blw" = (
 /turf/open/indestructible/ground/outside/desert,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-middle";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-middle"
 	},
 /area/f13/desert)
 "blx" = (
@@ -23301,8 +23298,8 @@
 /area/f13/desert)
 "bmp" = (
 /obj/effect/turf_decal/stripes/line{
-	icon_state = "warningline";
-	dir = 10
+	dir = 10;
+	icon_state = "warningline"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "plating"
@@ -23345,8 +23342,8 @@
 /area/f13/raider_mall)
 "bmu" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
-	icon_state = "bench_center"
+	icon_state = "bench_center";
+	name = "stool"
 	},
 /obj/effect/spawner/lootdrop/f13/junkspawners,
 /turf/open/floor/plasteel/f13{
@@ -23622,8 +23619,8 @@
 "bnj" = (
 /mob/living/simple_animal/hostile/ghoul,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 6
+	dir = 6;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bnk" = (
@@ -23647,8 +23644,8 @@
 "bnn" = (
 /obj/structure/sign/bilboards/random,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bno" = (
@@ -23680,8 +23677,8 @@
 /area/f13/desert)
 "bns" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innerpavement";
-	dir = 2
+	dir = 2;
+	icon_state = "innerpavement"
 	},
 /area/f13/desert)
 "bnt" = (
@@ -23805,8 +23802,8 @@
 /area/f13/desert)
 "bnN" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innermaincornerinner";
-	dir = 8
+	dir = 8;
+	icon_state = "innermaincornerinner"
 	},
 /area/f13/desert)
 "bnO" = (
@@ -23831,8 +23828,8 @@
 /area/f13/tunnel)
 "bnR" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innermaincornerinner";
-	dir = 4
+	dir = 4;
+	icon_state = "innermaincornerinner"
 	},
 /area/f13/desert)
 "bnS" = (
@@ -23842,8 +23839,8 @@
 /area/f13/desert)
 "bnT" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innermaincornerinner";
-	dir = 1
+	dir = 1;
+	icon_state = "innermaincornerinner"
 	},
 /area/f13/desert)
 "bnU" = (
@@ -23867,20 +23864,20 @@
 /area/f13/underground/mountain)
 "bnY" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innerpavement";
-	dir = 1
+	dir = 1;
+	icon_state = "innerpavement"
 	},
 /area/f13/desert)
 "bnZ" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innerpavement";
-	dir = 5
+	dir = 5;
+	icon_state = "innerpavement"
 	},
 /area/f13/desert)
 "boa" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innerpavement";
-	dir = 9
+	dir = 9;
+	icon_state = "innerpavement"
 	},
 /area/f13/desert)
 "bob" = (
@@ -23889,20 +23886,20 @@
 /area/f13/underground/mountain)
 "boc" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "verticalrightborderrightbottom";
-	dir = 2
+	dir = 2;
+	icon_state = "verticalrightborderrightbottom"
 	},
 /area/f13/desert)
 "bod" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "verticaloutermainbottom";
-	dir = 2
+	dir = 2;
+	icon_state = "verticaloutermainbottom"
 	},
 /area/f13/desert)
 "boe" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "verticalleftborderleftbottom";
-	dir = 2
+	dir = 2;
+	icon_state = "verticalleftborderleftbottom"
 	},
 /area/f13/desert)
 "bof" = (
@@ -23962,8 +23959,8 @@
 /area/f13/desert)
 "boo" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 6
+	dir = 6;
+	icon_state = "outerpavement"
 	},
 /area/f13/tunnel)
 "bop" = (
@@ -24032,8 +24029,8 @@
 	dir = 4
 	},
 /obj/effect/turf_decal/stripes/line{
-	icon_state = "warningline";
-	dir = 6
+	dir = 6;
+	icon_state = "warningline"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "floorgrime"
@@ -24193,14 +24190,14 @@
 /area/f13/desert)
 "boW" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "verticalleftborderrighttop";
-	dir = 2
+	dir = 2;
+	icon_state = "verticalleftborderrighttop"
 	},
 /area/f13/desert)
 "boX" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "verticaloutermaintop";
-	dir = 2
+	dir = 2;
+	icon_state = "verticaloutermaintop"
 	},
 /area/f13/desert)
 "boY" = (
@@ -24265,8 +24262,8 @@
 /area/f13/powerplant)
 "bpg" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innercornermisc";
-	dir = 2
+	dir = 2;
+	icon_state = "innercornermisc"
 	},
 /area/f13/desert)
 "bph" = (
@@ -24341,8 +24338,8 @@
 "bpt" = (
 /obj/structure/barricade/wooden,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bpu" = (
@@ -24662,8 +24659,8 @@
 /area/f13/ncr_main)
 "bqr" = (
 /obj/structure/chair/wood/normal{
-	icon_state = "wooden_chair";
-	dir = 4
+	dir = 4;
+	icon_state = "wooden_chair"
 	},
 /turf/open/floor/wood/f13/old,
 /area/f13/sunny_dale)
@@ -24722,9 +24719,9 @@
 /area/f13/underground/mountain)
 "bqA" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 4;
 	icon_state = "bench";
-	dir = 4
+	name = "stool"
 	},
 /obj/effect/landmark/start/f13/ncrrecruit,
 /turf/open/floor/plasteel/f13{
@@ -24733,9 +24730,9 @@
 /area/f13/ncr_main)
 "bqB" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 8;
 	icon_state = "bench";
-	dir = 8
+	name = "stool"
 	},
 /obj/effect/landmark/start/f13/ncrrecruit,
 /turf/open/floor/plasteel/f13{
@@ -24753,8 +24750,8 @@
 /area/f13/sunny_dale)
 "bqD" = (
 /obj/structure/chair/wood/normal{
-	icon_state = "wooden_chair";
-	dir = 4
+	dir = 4;
+	icon_state = "wooden_chair"
 	},
 /turf/open/floor/wood/f13/old{
 	icon_state = "housewood2-broken"
@@ -24861,8 +24858,8 @@
 /area/f13/desert)
 "bqU" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
-	icon_state = "bench_center"
+	icon_state = "bench_center";
+	name = "stool"
 	},
 /obj/effect/spawner/lootdrop/f13/medical/wasteland/meds/drug,
 /turf/open/floor/plasteel/f13{
@@ -24977,8 +24974,8 @@
 "brl" = (
 /mob/living/simple_animal/hostile/ghoul,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 9
+	dir = 9;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "brm" = (
@@ -25031,8 +25028,8 @@
 /area/f13/ncr_main)
 "bru" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
-	icon_state = "bench_center"
+	icon_state = "bench_center";
+	name = "stool"
 	},
 /obj/effect/landmark/start/f13/ncrrecruit,
 /turf/open/floor/plasteel/f13{
@@ -25090,15 +25087,15 @@
 	name = "Mutant Vines"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 10
+	dir = 10;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "brD" = (
 /obj/structure/barricade/wooden,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "brE" = (
@@ -25127,8 +25124,8 @@
 "brH" = (
 /obj/structure/table/wood,
 /obj/machinery/light/small/broken{
-	icon_state = "bulb-broken";
-	dir = 4
+	dir = 4;
+	icon_state = "bulb-broken"
 	},
 /turf/open/floor/wood/f13/old,
 /area/f13/sunny_dale)
@@ -25147,8 +25144,8 @@
 "brK" = (
 /mob/living/simple_animal/hostile/ghoul,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 10
+	dir = 10;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "brL" = (
@@ -25299,15 +25296,15 @@
 	name = "Mutant Vines"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bse" = (
 /mob/living/simple_animal/hostile/ghoul,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "bsf" = (
@@ -25392,8 +25389,8 @@
 	name = "Mutant Vines"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "bst" = (
@@ -25401,8 +25398,8 @@
 	name = "Mutant Vines"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "bsu" = (
@@ -25410,8 +25407,8 @@
 	name = "Mutant Vines"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "bsv" = (
@@ -25487,8 +25484,8 @@
 	light_color = "#e8eaff"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 6
+	dir = 6;
+	icon_state = "outerpavement"
 	},
 /area/f13/ncr_main)
 "bsE" = (
@@ -25526,8 +25523,8 @@
 "bsI" = (
 /mob/living/simple_animal/hostile/ghoul/reaver,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerturn";
-	dir = 8
+	dir = 8;
+	icon_state = "outerturn"
 	},
 /area/f13/desert)
 "bsJ" = (
@@ -25753,9 +25750,9 @@
 /area/f13/ncr_main)
 "btt" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 4;
 	icon_state = "bench";
-	dir = 4
+	name = "stool"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "horizontaloutermain0"
@@ -25763,8 +25760,8 @@
 /area/f13/desert)
 "btu" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
-	icon_state = "bench_center"
+	icon_state = "bench_center";
+	name = "stool"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "horizontaloutermain0"
@@ -25780,9 +25777,9 @@
 /area/f13/desert)
 "btw" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
+	dir = 8;
 	icon_state = "bench";
-	dir = 8
+	name = "stool"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "horizontaloutermain0"
@@ -25835,9 +25832,9 @@
 "btD" = (
 /obj/structure/table/reinforced,
 /obj/structure/window/reinforced{
-	resistance_flags = 3;
 	color = "#008000";
-	dir = 1
+	dir = 1;
+	resistance_flags = 3
 	},
 /obj/machinery/computer/terminal,
 /turf/open/floor/plasteel/f13{
@@ -25897,8 +25894,8 @@
 /area/f13/powerplant)
 "btM" = (
 /obj/structure/fence/corner{
-	icon_state = "end";
-	dir = 8
+	dir = 8;
+	icon_state = "end"
 	},
 /obj/structure/fence,
 /turf/open/indestructible/ground/outside/desert,
@@ -26071,8 +26068,8 @@
 "bum" = (
 /obj/structure/fence/corner,
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 9
+	dir = 9;
+	icon_state = "corner"
 	},
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/desert)
@@ -26462,8 +26459,8 @@
 	dir = 1
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavement"
 	},
 /area/f13/ncr_main)
 "bvj" = (
@@ -26551,8 +26548,8 @@
 "bvw" = (
 /obj/effect/spawner/lootdrop/f13/junkspawners,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 9
+	dir = 9;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bvx" = (
@@ -26637,8 +26634,8 @@
 	name = "Mutant Vines"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bvL" = (
@@ -26707,8 +26704,8 @@
 "bvU" = (
 /mob/living/simple_animal/hostile/ghoul,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 5
+	dir = 5;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bvV" = (
@@ -26916,8 +26913,8 @@
 	dir = 4
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/ncr_main)
 "bwA" = (
@@ -27292,15 +27289,15 @@
 	dir = 1
 	},
 /turf/open/floor/f13{
-	tag = "icon-floordirtysolid";
-	icon_state = "floordirtysolid"
+	icon_state = "floordirtysolid";
+	tag = "icon-floordirtysolid"
 	},
 /area/f13/admeme)
 "bxH" = (
 /obj/structure/fence,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 9
+	dir = 9;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bxI" = (
@@ -27363,8 +27360,8 @@
 /area/f13/powerplant)
 "bxQ" = (
 /obj/machinery/light/broken{
-	icon_state = "tube-broken";
-	dir = 4
+	dir = 4;
+	icon_state = "tube-broken"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "floorgrime"
@@ -27395,8 +27392,8 @@
 /area/f13/powerplant)
 "bxU" = (
 /obj/structure/chair/wood/normal{
-	icon_state = "wooden_chair";
-	dir = 4
+	dir = 4;
+	icon_state = "wooden_chair"
 	},
 /obj/machinery/light/small{
 	dir = 8
@@ -27405,8 +27402,8 @@
 /area/f13/sunny_dale)
 "bxV" = (
 /obj/structure/chair/stool/f13stool{
-	name = "stool";
-	icon_state = "bench_center"
+	icon_state = "bench_center";
+	name = "stool"
 	},
 /obj/effect/spawner/lootdrop/f13/medical/wasteland/meds/drug,
 /obj/effect/decal/remains/human,
@@ -27495,15 +27492,15 @@
 /area/f13/powerplant)
 "byi" = (
 /obj/machinery/light/small/broken{
-	icon_state = "bulb-broken";
-	dir = 4
+	dir = 4;
+	icon_state = "bulb-broken"
 	},
 /turf/open/floor/plating,
 /area/f13/powerplant)
 "byj" = (
 /obj/structure/chair/wood/normal{
-	icon_state = "wooden_chair";
-	dir = 1
+	dir = 1;
+	icon_state = "wooden_chair"
 	},
 /turf/open/floor/wood/f13/old,
 /area/f13/sunny_dale)
@@ -27681,8 +27678,8 @@
 "byL" = (
 /obj/structure/barricade/wooden,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "byM" = (
@@ -27865,8 +27862,8 @@
 /area/f13/prison)
 "bzo" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bzp" = (
@@ -28040,8 +28037,8 @@
 "bzR" = (
 /obj/effect/decal/remains/human,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "bzS" = (
@@ -28674,8 +28671,8 @@
 /area/f13/powerplant)
 "bBQ" = (
 /obj/machinery/power/terminal{
-	icon_state = "term";
-	dir = 8
+	dir = 8;
+	icon_state = "term"
 	},
 /obj/structure/cable{
 	icon_state = "0-4"
@@ -28699,8 +28696,8 @@
 /area/f13/powerplant)
 "bBS" = (
 /obj/machinery/power/terminal{
-	icon_state = "term";
-	dir = 4
+	dir = 4;
+	icon_state = "term"
 	},
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -28723,8 +28720,8 @@
 /area/f13/powerplant)
 "bBU" = (
 /obj/machinery/shower{
-	icon_state = "shower";
-	dir = 1
+	dir = 1;
+	icon_state = "shower"
 	},
 /turf/open/floor/plating,
 /area/f13/powerplant)
@@ -28756,8 +28753,8 @@
 	name = "Mutant Vines"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 6
+	dir = 6;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bBZ" = (
@@ -28923,8 +28920,8 @@
 	name = "Mutant Vines"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 5
+	dir = 5;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bCy" = (
@@ -29219,22 +29216,22 @@
 "bDl" = (
 /obj/effect/decal/cleanable/greenglow,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bDm" = (
 /mob/living/simple_animal/hostile/ghoul/glowing,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 10
+	dir = 10;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bDn" = (
 /obj/structure/chair/wood/modern{
-	tag = "icon-wooden_chair_new (NORTH)";
+	dir = 1;
 	icon_state = "wooden_chair_new";
-	dir = 1
+	tag = "icon-wooden_chair_new (NORTH)"
 	},
 /turf/open/floor/wood/f13/old,
 /area/f13/den)
@@ -29278,8 +29275,8 @@
 "bDt" = (
 /obj/effect/decal/cleanable/greenglow,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "bDu" = (
@@ -29288,15 +29285,15 @@
 /obj/item/stack/sheet/mineral/uranium,
 /obj/item/stack/sheet/mineral/uranium,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bDv" = (
 /obj/effect/decal/remains/human,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 10
+	dir = 10;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bDw" = (
@@ -29377,8 +29374,8 @@
 "bDG" = (
 /mob/living/simple_animal/cow/brahmin,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 9
+	dir = 9;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bDH" = (
@@ -29432,8 +29429,8 @@
 	},
 /mob/living/simple_animal/hostile/ghoul,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 10
+	dir = 10;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bDP" = (
@@ -29470,8 +29467,8 @@
 "bDT" = (
 /obj/effect/decal/remains/human,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bDU" = (
@@ -29503,8 +29500,8 @@
 	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerborder";
-	dir = 2
+	dir = 2;
+	icon_state = "outerborder"
 	},
 /area/f13/desert)
 "bDY" = (
@@ -29513,8 +29510,8 @@
 	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerborder";
-	dir = 8
+	dir = 8;
+	icon_state = "outerborder"
 	},
 /area/f13/desert)
 "bDZ" = (
@@ -29531,14 +29528,14 @@
 	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "tinycornerhorizontal";
-	dir = 8
+	dir = 8;
+	icon_state = "tinycornerhorizontal"
 	},
 /area/f13/desert)
 "bEb" = (
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 5
+	dir = 5;
+	icon_state = "corner"
 	},
 /turf/open/floor/plating/f13/outside/road,
 /area/f13/desert)
@@ -29607,8 +29604,8 @@
 "bEm" = (
 /obj/structure/wreck/trash/five_tires,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innerturn";
-	dir = 4
+	dir = 4;
+	icon_state = "innerturn"
 	},
 /area/f13/desert)
 "bEn" = (
@@ -29744,8 +29741,8 @@
 "bEI" = (
 /obj/item/rack_parts,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerbordercorner";
-	dir = 8
+	dir = 8;
+	icon_state = "outerbordercorner"
 	},
 /area/f13/underground/bos)
 "bEJ" = (
@@ -29929,22 +29926,22 @@
 "bFn" = (
 /turf/open/floor/wood/f13/old,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-end"
 	},
 /area/f13/prison)
 "bFo" = (
 /turf/open/floor/wood/f13/old,
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 8
+	dir = 8;
+	icon_state = "girder-end"
 	},
 /area/f13/prison)
 "bFp" = (
 /obj/effect/decal/cleanable/greenglow,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bFq" = (
@@ -30023,8 +30020,8 @@
 "bFA" = (
 /obj/effect/decal/cleanable/greenglow,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 5
+	dir = 5;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bFB" = (
@@ -30110,8 +30107,8 @@
 	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bFP" = (
@@ -30120,12 +30117,12 @@
 	icon_state = "straight"
 	},
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 9
+	dir = 9;
+	icon_state = "corner"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bFQ" = (
@@ -30156,8 +30153,8 @@
 	icon_state = "end"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 10
+	dir = 10;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bFV" = (
@@ -30172,8 +30169,8 @@
 "bFW" = (
 /obj/structure/fence/corner,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "bFX" = (
@@ -30255,8 +30252,8 @@
 /area/f13/underground/bos)
 "bGk" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerbordercorner";
-	dir = 4
+	dir = 4;
+	icon_state = "outerbordercorner"
 	},
 /area/f13/underground/bos)
 "bGl" = (
@@ -30267,8 +30264,8 @@
 "bGm" = (
 /obj/structure/rack,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerbordercorner";
-	dir = 1
+	dir = 1;
+	icon_state = "outerbordercorner"
 	},
 /area/f13/underground/bos)
 "bGn" = (
@@ -30284,18 +30281,18 @@
 /area/f13/underground/bos)
 "bGp" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerbordercorner";
-	dir = 1
+	dir = 1;
+	icon_state = "outerbordercorner"
 	},
 /area/f13/underground/bos)
 "bGq" = (
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 5
+	dir = 5;
+	icon_state = "corner"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bGr" = (
@@ -30361,8 +30358,8 @@
 /area/f13/underground/bos)
 "bGE" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "outerpavementcorner"
@@ -30370,8 +30367,8 @@
 /area/f13/desert)
 "bGF" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
 	icon_state = "outerpavement"
@@ -30380,8 +30377,8 @@
 "bGG" = (
 /obj/structure/fence/corner,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 6
+	dir = 6;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bGH" = (
@@ -30392,12 +30389,12 @@
 /area/f13/desert)
 "bGI" = (
 /obj/structure/fence/corner{
-	icon_state = "corner";
-	dir = 9
+	dir = 9;
+	icon_state = "corner"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 10
+	dir = 10;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bGJ" = (
@@ -30435,8 +30432,8 @@
 	icon_state = "horizontaloutermain0"
 	},
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-end"
 	},
 /area/f13/prison)
 "bGQ" = (
@@ -30444,8 +30441,8 @@
 	icon_state = "horizontaloutermain0"
 	},
 /turf/closed/wall/f13wood{
-	icon_state = "girder-middle";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-middle"
 	},
 /area/f13/prison)
 "bGR" = (
@@ -30453,8 +30450,8 @@
 	icon_state = "horizontaloutermain0"
 	},
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 8
+	dir = 8;
+	icon_state = "girder-end"
 	},
 /area/f13/prison)
 "bGS" = (
@@ -30541,8 +30538,8 @@
 /area/f13/prison)
 "bHg" = (
 /obj/machinery/computer/shuttle/boselevator{
-	icon_state = "computer";
-	dir = 4
+	dir = 4;
+	icon_state = "computer"
 	},
 /obj/effect/turf_decal/stripes/corner,
 /turf/open/floor/plasteel/f13{
@@ -30639,8 +30636,8 @@
 "bHu" = (
 /obj/structure/bed,
 /obj/item/bedsheet{
-	tag = "icon-sheetUSA";
-	icon_state = "sheetUSA"
+	icon_state = "sheetUSA";
+	tag = "icon-sheetUSA"
 	},
 /turf/open/floor/f13/wood,
 /area/f13/den)
@@ -30680,8 +30677,8 @@
 	icon_state = "horizontaloutermain0"
 	},
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 1
+	dir = 1;
+	icon_state = "girder-end"
 	},
 /area/f13/prison)
 "bHz" = (
@@ -30803,8 +30800,8 @@
 /area/f13/prison)
 "bHT" = (
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 1
+	dir = 1;
+	icon_state = "girder-end"
 	},
 /area/f13/den)
 "bHU" = (
@@ -30904,8 +30901,8 @@
 	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "bIk" = (
@@ -30914,18 +30911,18 @@
 	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bIl" = (
 /obj/structure/fence/corner{
-	icon_state = "end";
-	dir = 8
+	dir = 8;
+	icon_state = "end"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavementcorner";
-	dir = 1
+	dir = 1;
+	icon_state = "outerpavementcorner"
 	},
 /area/f13/desert)
 "bIm" = (
@@ -31882,8 +31879,8 @@
 	icon_state = "wood1"
 	},
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 1
+	dir = 1;
+	icon_state = "girder-end"
 	},
 /area/f13/legioncamp)
 "bLh" = (
@@ -31962,8 +31959,8 @@
 /area/f13/brotherhood)
 "bLt" = (
 /obj/machinery/light/broken{
-	icon_state = "tube-broken";
-	dir = 1
+	dir = 1;
+	icon_state = "tube-broken"
 	},
 /obj/structure/table_frame,
 /obj/structure/frame/machine,
@@ -32172,8 +32169,8 @@
 /area/f13/desert)
 "bMc" = (
 /obj/machinery/light/built{
-	icon_state = "tube-empty";
-	dir = 4
+	dir = 4;
+	icon_state = "tube-empty"
 	},
 /obj/effect/decal/cleanable/generic,
 /turf/open/floor/plasteel/f13/vault_floor/neutral,
@@ -32289,8 +32286,8 @@
 "bMq" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/disposaloutlet{
-	icon_state = "outlet";
-	dir = 1
+	dir = 1;
+	icon_state = "outlet"
 	},
 /obj/structure/disposalpipe/trunk,
 /turf/open/floor/engine,
@@ -32691,8 +32688,8 @@
 "bNs" = (
 /obj/structure/frame/machine,
 /obj/machinery/light/built{
-	icon_state = "tube-empty";
-	dir = 8
+	dir = 8;
+	icon_state = "tube-empty"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/neutral,
 /area/f13/brotherhood)
@@ -32707,8 +32704,8 @@
 "bNv" = (
 /obj/machinery/iv_drip,
 /obj/machinery/light/built{
-	icon_state = "tube-empty";
-	dir = 4
+	dir = 4;
+	icon_state = "tube-empty"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/neutral,
 /area/f13/brotherhood)
@@ -33747,8 +33744,8 @@
 /area/f13/brotherhood)
 "bQW" = (
 /obj/machinery/computer/shuttle/boselevator{
-	icon_state = "computer";
-	dir = 8
+	dir = 8;
+	icon_state = "computer"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/red/whiteredfull,
 /area/f13/brotherhood)
@@ -33778,8 +33775,8 @@
 /area/f13/desert)
 "bRa" = (
 /obj/structure/fence{
-	icon_state = "straight";
-	dir = 4
+	dir = 4;
+	icon_state = "straight"
 	},
 /obj/structure/sign/warning/securearea,
 /turf/open/floor/plating/f13/outside/road{
@@ -33989,9 +33986,9 @@
 /area/f13/brotherhood)
 "bRJ" = (
 /obj/structure/chair{
-	tag = "icon-chair (WEST)";
+	dir = 8;
 	icon_state = "chair";
-	dir = 8
+	tag = "icon-chair (WEST)"
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/f13{
@@ -34010,14 +34007,14 @@
 "bRL" = (
 /obj/machinery/light/floor,
 /turf/open/floor/f13{
-	tag = "icon-floorrusty";
-	icon_state = "floorrusty"
+	icon_state = "floorrusty";
+	tag = "icon-floorrusty"
 	},
 /area/f13/brotherhood)
 "bRM" = (
 /turf/open/floor/f13{
-	tag = "icon-floorrusty";
-	icon_state = "floorrusty"
+	icon_state = "floorrusty";
+	tag = "icon-floorrusty"
 	},
 /area/f13/brotherhood)
 "bRN" = (
@@ -34070,8 +34067,8 @@
 "bRT" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/f13{
-	tag = "icon-floordirtysolid";
-	icon_state = "floordirtysolid"
+	icon_state = "floordirtysolid";
+	tag = "icon-floordirtysolid"
 	},
 /area/f13/brotherhood)
 "bRU" = (
@@ -34079,8 +34076,8 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/reagent_dispensers/fueltank,
 /turf/open/floor/f13{
-	tag = "icon-floordirtysolid";
-	icon_state = "floordirtysolid"
+	icon_state = "floordirtysolid";
+	tag = "icon-floordirtysolid"
 	},
 /area/f13/brotherhood)
 "bRV" = (
@@ -34093,8 +34090,8 @@
 /obj/structure/rack,
 /obj/item/key/vertibird,
 /turf/open/floor/f13{
-	tag = "icon-floordirtysolid";
-	icon_state = "floordirtysolid"
+	icon_state = "floordirtysolid";
+	tag = "icon-floordirtysolid"
 	},
 /area/f13/brotherhood)
 "bRX" = (
@@ -34104,15 +34101,15 @@
 /obj/item/gps,
 /obj/item/gps,
 /turf/open/floor/f13{
-	tag = "icon-floordirtysolid";
-	icon_state = "floordirtysolid"
+	icon_state = "floordirtysolid";
+	tag = "icon-floordirtysolid"
 	},
 /area/f13/brotherhood)
 "bRY" = (
 /obj/vertibird,
 /turf/open/floor/f13{
-	tag = "icon-floorrusty";
-	icon_state = "floorrusty"
+	icon_state = "floorrusty";
+	tag = "icon-floorrusty"
 	},
 /area/f13/brotherhood)
 "bRZ" = (
@@ -34122,8 +34119,8 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/f13{
-	tag = "icon-floordirtysolid";
-	icon_state = "floordirtysolid"
+	icon_state = "floordirtysolid";
+	tag = "icon-floordirtysolid"
 	},
 /area/f13/brotherhood)
 "bSa" = (
@@ -34135,8 +34132,8 @@
 /obj/item/vertibird_flare,
 /obj/item/vertibird_flare,
 /turf/open/floor/f13{
-	tag = "icon-floordirtysolid";
-	icon_state = "floordirtysolid"
+	icon_state = "floordirtysolid";
+	tag = "icon-floordirtysolid"
 	},
 /area/f13/brotherhood)
 "bSb" = (
@@ -34144,8 +34141,8 @@
 /obj/effect/spawner/lootdrop/f13/medical/vault/meds,
 /obj/effect/spawner/lootdrop/f13/medical/vault/meds,
 /turf/open/floor/f13{
-	tag = "icon-floordirtysolid";
-	icon_state = "floordirtysolid"
+	icon_state = "floordirtysolid";
+	tag = "icon-floordirtysolid"
 	},
 /area/f13/brotherhood)
 "bSc" = (
@@ -34191,8 +34188,8 @@
 "bSi" = (
 /obj/effect/spawner/lootdrop/f13/medical/wasteland/meds/drug,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innerturn";
-	dir = 1
+	dir = 1;
+	icon_state = "innerturn"
 	},
 /area/f13/desert)
 "bSj" = (
@@ -34203,15 +34200,15 @@
 "bSk" = (
 /obj/effect/spawner/lootdrop/f13/medical/wasteland/meds/drug,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "bSl" = (
 /obj/effect/spawner/lootdrop/f13/medical/wasteland/meds/drug,
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innerturn";
-	dir = 2
+	dir = 2;
+	icon_state = "innerturn"
 	},
 /area/f13/desert)
 "bSm" = (
@@ -34545,8 +34542,8 @@
 	dir = 8
 	},
 /obj/effect/turf_decal/stripes/line{
-	icon_state = "warningline";
-	dir = 10
+	dir = 10;
+	icon_state = "warningline"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "yellowrustyfull"
@@ -34565,8 +34562,8 @@
 	dir = 4
 	},
 /obj/effect/turf_decal/stripes/line{
-	icon_state = "warningline";
-	dir = 6
+	dir = 6;
+	icon_state = "warningline"
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "yellowrustyfull"
@@ -34578,8 +34575,8 @@
 	},
 /obj/structure/window/reinforced,
 /obj/effect/turf_decal/stripes/line{
-	icon_state = "warningline";
-	dir = 10
+	dir = 10;
+	icon_state = "warningline"
 	},
 /obj/item/clothing/suit/radiation,
 /turf/open/floor/plasteel/f13{
@@ -34600,8 +34597,8 @@
 	},
 /obj/structure/window/reinforced,
 /obj/effect/turf_decal/stripes/line{
-	icon_state = "warningline";
-	dir = 6
+	dir = 6;
+	icon_state = "warningline"
 	},
 /obj/effect/decal/cleanable/greenglow,
 /obj/item/stack/sheet/mineral/uranium{
@@ -35271,9 +35268,6 @@
 /obj/structure/reagent_dispensers/compostbin,
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/desert)
-"bUI" = (
-/turf/closed/wall/mineral/iron,
-/area/f13/underground/mountain)
 "bUJ" = (
 /obj/machinery/light{
 	dir = 8
@@ -35726,8 +35720,8 @@
 /area/f13/desert)
 "gsr" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 5
+	dir = 5;
+	icon_state = "outerpavement"
 	},
 /area/f13/tunnel)
 "gCU" = (
@@ -35766,8 +35760,8 @@
 	pixel_x = 11
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 4
+	dir = 4;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "hAd" = (
@@ -36456,8 +36450,8 @@
 	icon_state = "straight"
 	},
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "outerpavement";
-	dir = 8
+	dir = 8;
+	icon_state = "outerpavement"
 	},
 /area/f13/desert)
 "smn" = (
@@ -36507,8 +36501,8 @@
 /area/f13/sunny_dale)
 "sZz" = (
 /turf/open/floor/plating/f13/outside/road{
-	icon_state = "innerpavement";
-	dir = 9
+	dir = 9;
+	icon_state = "innerpavement"
 	},
 /area/f13/tunnel)
 "tbH" = (
@@ -36701,8 +36695,8 @@
 	icon_state = "wood2"
 	},
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 8
+	dir = 8;
+	icon_state = "girder-end"
 	},
 /area/f13/ncr_main)
 "wBW" = (
@@ -36737,8 +36731,8 @@
 	icon_state = "wood2"
 	},
 /turf/closed/wall/f13wood{
-	icon_state = "girder-end";
-	dir = 4
+	dir = 4;
+	icon_state = "girder-end"
 	},
 /area/f13/ncr_main)
 "xjl" = (
@@ -58509,7 +58503,7 @@ bQA
 acs
 bQA
 aNb
-bUI
+aaf
 aaf
 aaf
 aaf
@@ -58910,8 +58904,8 @@ bQA
 bQA
 bQA
 bQA
-aRC
-bUI
+aNb
+aaf
 aaf
 aaf
 aaf
@@ -59313,7 +59307,7 @@ bQk
 afW
 bQA
 aNb
-bUI
+aaf
 aaf
 aaf
 aaf
