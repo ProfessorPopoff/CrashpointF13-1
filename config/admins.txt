@@ -2,3 +2,4 @@ ProfessorPopoff = Host
 NothingButCarl = Elder
 Evoturd = Elder
 CyberThot = Elder
+scarwolff = Elder
