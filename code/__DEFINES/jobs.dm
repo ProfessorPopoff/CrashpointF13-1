@@ -79,19 +79,6 @@
 #define F13CAMPFOLLOWER	(1<<13)
 #define F13PRIMEDECAN	(1<<14)
 
-#define BOS				(1<<5)
-
-#define F13ELDER		(1<<0)
-#define F13SENTINEL		(1<<1)
-#define F13SENIORPALADIN	(1<<2)
-#define F13PALADIN		(1<<3)
-#define F13KNIGHTCAPTAIN	(1<<4)
-#define F13KNIGHT		(1<<5)
-#define F13HEADSCRIBE	(1<<6)
-#define F13SCRIBE		(1<<7)
-#define F13INITIATE		(1<<8)
-#define VERTIPILOT		(1<<9)
-
 #define DEN				(1<<6)
 
 #define F13SHERIFF		(1<<0)

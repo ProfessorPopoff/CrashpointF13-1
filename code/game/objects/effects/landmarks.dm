@@ -543,52 +543,6 @@ INITIALIZE_IMMEDIATE(/obj/effect/landmark/start/new_player)
 /obj/effect/landmark/start/f13/campfollower
 	name = "Camp Follower"
 
-// Brotherhood of Steel
-
-/obj/effect/landmark/start/f13/elder
-	name = "Elder"
-	icon_state = "Elder"
-
-/obj/effect/landmark/start/f13/headscribe
-	name = "Head Scribe"
-	icon_state = "Knight"
-
-/obj/effect/landmark/start/f13/sentinel
-	name = "Sentinel"
-	icon_state = "Paladin"
-
-/obj/effect/landmark/start/f13/knightcap
-	name = "Knight-Captain"
-	icon_state = "Knight"
-
-/obj/effect/landmark/start/f13/seniorpaladin
-	name = "Senior Paladin"
-	icon_state = "Knight"
-
-/obj/effect/landmark/start/f13/paladin
-	name = "Paladin"
-	icon_state = "Knight"
-
-/obj/effect/landmark/start/f13/scribe
-	name = "Scribe"
-	icon_state = "Scribe"
-
-/obj/effect/landmark/start/f13/Knight
-	name = "Knight"
-	icon_state = "Knight"
-
-/obj/effect/landmark/start/f13/initiate
-	name = "Initiate"
-	icon_state = "Knight"
-
-/obj/effect/landmark/start/f13/vertipilot
-	name = "Vertibird Pilot"
-	icon_state = "Knight"
-
-/obj/effect/landmark/start/f13/handy
-	name = "Mr. Handy"
-	icon_state = "Scribe"
-
 // Vault
 
 /obj/effect/landmark/start/f13/overseer

@@ -55,8 +55,6 @@
 			highDeptFlag = NCR
 		else if(job_legion_high)
 			highDeptFlag = LEGION
-		else if(job_bos_high)
-			highDeptFlag = BOS
 		else if(job_den_high)
 			highDeptFlag = DEN
 		else if(job_vault_high)

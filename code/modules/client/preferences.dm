@@ -896,10 +896,6 @@ GLOBAL_LIST_EMPTY(preferences_datums)
 				job_legion_low |= job.flag
 
 		return 1
-	else if (job.department_flag == BOS)
-		job_bos_low &= ~job.flag
-		job_bos_med &= ~job.flag
-		job_bos_high &= ~job.flag
 
 		switch(level)
 			if (1)
@@ -1104,14 +1100,6 @@ GLOBAL_LIST_EMPTY(preferences_datums)
 					return job_legion_med
 				if(3)
 					return job_legion_low
-		if(BOS)
-			switch(level)
-				if(1)
-					return job_bos_high
-				if(2)
-					return job_bos_med
-				if(3)
-					return job_bos_low
 		if(DEN)
 			switch(level)
 				if(1)
